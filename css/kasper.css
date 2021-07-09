@@ -184,7 +184,7 @@ header nav .form i {
 /* Start Landing */
 .landing {
     min-height: 100vh;
-    background-image: url('../images/landing.jpg');
+    background-image: url('./images/landing.jpg');
     background-size: cover;
     background-color: cornflowerblue;
     position: relative;
@@ -315,7 +315,7 @@ header nav .form i {
     padding-bottom: var(--section-padding);
     height: 600px;
     position: relative;
-    background-image: url(../images/design-features.jpg);
+    background-image: url(./images/design-features.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
